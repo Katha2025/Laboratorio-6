@@ -30,7 +30,7 @@ Por otra parte, las máquinas de anestesia modernas incorporan ventiladores mec�
 
 La ventilación mecánica puede funcionar mediante diferentes modalidades, entre ellas la ventilación controlada por volumen y la ventilación controlada por presión. La primera establece un volumen de gas que se administra durante cada ciclo respiratorio, mientras que la segunda establece una presión inspiratoria objetivo. La selección depende de las condiciones pulmonares del paciente y de los objetivos clínicos del procedimiento [3].
 
-**5. Vaporizadores y administración de anestésicos inhalatorios**
+**2. Vaporizadores y administración de anestésicos inhalatorios**
 
 Los vaporizadores son dispositivos que permiten transformar los agentes anestésicos líquidos en vapor y añadirlos de manera controlada a la mezcla de gases frescos que se administra al paciente. Su funcionamiento se basa en las propiedades físicas de los anestésicos volátiles, especialmente su presión de vapor, temperatura y capacidad de evaporación [3].
 
@@ -39,7 +39,7 @@ Entre los agentes anestésicos que se utilizan con mayor frecuencia se encuentra
 La correcta instalación y el funcionamiento de los vaporizadores son fundamentales para evitar errores en la administración de anestésicos. Por esta razón, las máquinas incorporan mecanismos de seguridad que permiten verificar su instalación y prevenir la administración simultánea o inadecuada de diferentes agentes anestésicos [3].
 
 
-**6. Sistemas de monitorización, alarmas y mantenimiento**
+**3. Sistemas de monitorización, alarmas y mantenimiento**
 Las máquinas de anestesia actuales integran sistemas electrónicos de monitorización que permiten supervisar continuamente las condiciones respiratorias del paciente y el funcionamiento del equipo. Entre las variables más importantes se encuentran la concentración de oxígeno inspirado (FiO₂), la presión de las vías respiratorias, el volumen corriente, el volumen minuto y la concentración de dióxido de carbono al final de la espiración (EtCO₂) [3], [6].
 
 Los sistemas de alarma cumplen una función esencial, ya que advierten al personal médico cuando alguna variable supera los límites establecidos o cuando se presenta una condición que puede comprometer la seguridad del paciente. Entre las situaciones que pueden generar alarmas se encuentran las fugas en el circuito respiratorio, la desconexión del paciente, las presiones anormales, la baja concentración de oxígeno y las alteraciones en la ventilación [3], [6].
