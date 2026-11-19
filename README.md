@@ -165,6 +165,56 @@ Por lo tanto, su tolerancia debe verificarse de acuerdo con las especificaciones
 
 # Parte B
 
+1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.
+   
+a. Vaporizador
+
+<img width="1280" height="960" alt="vaporizador" src="https://github.com/user-attachments/assets/7f9cf520-d2d3-4311-8245-cfc25ed5f59d" />
+
+
+El vaporizador es el componente encargado de transformar el anestésico líquido en vapor e incorporarlo a la mezcla de gases que recibe el paciente. Permite ajustar la concentración del agente anestésico administrado.
+
+En la máquina WATO EX-20, se instala en el soporte ubicado en la parte frontal, debajo de la pantalla y a la derecha de los flujómetros. En el equipo observado durante la práctica, este soporte se encontraba vacío, por lo que no había un vaporizador instalado.
+
+b. Válvula APL
+
+<img width="1280" height="960" alt="vaalculaapl" src="https://github.com/user-attachments/assets/b027e81d-74eb-419e-90ad-a3077ed987dd" />
+
+
+La válvula APL, o válvula limitadora de presión ajustable, permite regular el límite de presión del circuito respiratorio durante la ventilación manual. Libera el exceso de gas cuando se supera la presión ajustada, ayudando a evitar presiones excesivas en las vías respiratorias. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, encima del recipiente absorbente de CO₂, y se identifica por su perilla gris con bordes estriados, junto al manómetro [11].
+
+c. Recipiente absorbente de CO2
+
+<img width="960" height="1280" alt="gas" src="https://github.com/user-attachments/assets/7b5fdb61-abb0-4166-be1b-ad9490daff0d" />
+
+
+El recipiente absorbente de CO₂ contiene un material absorbente, generalmente cal sodada, que elimina el dióxido de carbono de los gases exhalados por el paciente. Esto permite reutilizar parte del gas dentro del circuito respiratorio y evita la reinhalación de CO₂. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, debajo de la válvula APL y del manómetro. En las fotografías corresponde al recipiente cilíndrico transparente con material granulado en su interior [11].
+
+
+d. Fuelle
+
+<img width="960" height="1280" alt="fuelle" src="https://github.com/user-attachments/assets/8aff6624-3ba5-4ff8-9f39-377ef689fe06" />
+
+
+El fuelle es una bolsa flexible y plegable que permite desplazar el gas hacia el paciente durante la ventilación mecánica. Se comprime durante la inspiración para impulsar el gas hacia los pulmones y vuelve a llenarse durante la espiración. Está ubicado dentro del cilindro transparente grande del lateral izquierdo de la máquina, encima del conjunto respiratorio [11]
+
+2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
+
+   
+3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?7
+
+  
+4. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta
+presión?
+
+
+5. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema
+de control de flujo? ¿De qué forma?
+
+
+
+6. ¿Para qué se requiere el sistema de presión negativa?
+
 
 
 # Análisis de los resultados
@@ -263,5 +313,7 @@ Finalmente podría considerarse  que la mala perfusión puede generar falsas ala
 [9] Pronk Technologies. OX-1 OxSim Optical SpO₂ Pulse Oximeter Tester: Technical Specifications. Ficha técnica del fabricante.
 
 [10] World Health Organization (WHO). (2019). Technical specifications for oxygen concentrators. Requisitos técnicos para pulsioxímetros. Documento técnico.
+
+[11] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20: Manual del usuario. [En línea]. Disponible en: Manual del usuario WATO EX-20. Consultado: 19 de noviembre de 2026.
 
 [11] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
