@@ -176,6 +176,68 @@ Por lo tanto, su tolerancia debe verificarse de acuerdo con las especificaciones
 # Preguntas a Discusión
 
 
+**• Pregunta 1: ¿Cuál es el principio de operación del Pronk OxSim OX-1 para simular una onda pulsátil?**
+
+El Pronk OxSim OX-1 funciona mediante un principio de simulación óptica de la pulsioximetría, reproduciendo las señales de luz que normalmente atraviesan el tejido de un dedo durante la circulación sanguínea.
+
+Para comprender su funcionamiento, primero es necesario conocer cómo trabaja un pulsioxímetro convencional.
+
+El sensor de pulsioximetría utiliza dos fuentes de luz:
+- Luz roja: aproximadamente 660 nm.
+- Luz infrarroja: aproximadamente 940 nm.
+Estas luces atraviesan el tejido y son detectadas por un fotodetector ubicado en el lado opuesto del sensor. La hemoglobina oxigenada y la desoxigenada absorben estas longitudes de onda en proporciones diferentes, lo que permite estimar la saturación periférica de oxígeno (SpO₂) [1].
+
+La señal recibida se divide en dos componentes:
+- Componente DC: representa la absorción constante de luz producida principalmente por los tejidos y la sangre no pulsátil.
+- Componente AC: representa las variaciones periódicas de absorción ocasionadas por los cambios de volumen de sangre arterial durante cada latido cardíaco.
+A partir de estos componentes, el pulsioxímetro calcula una relación denominada Ratio of Ratios (R):
+$$
+R=\frac{AC_{\text{rojo}}/DC_{\text{rojo}}}{AC_{\text{IR}}/DC_{\text{IR}}}
+$$
+
+Esta relación permite estimar la SpO₂ mediante un algoritmo de calibración.
+
+¿Cómo interviene el OxSim OX-1?
+
+A diferencia de un simulador que genera directamente una señal eléctrica, el OxSim OX-1 trabaja mediante señales ópticas. Su funcionamiento consiste en:
+1. El sensor del pulsioxímetro emite luz roja e infrarroja hacia el dedo artificial del OxSim.
+2. El simulador intercepta los pulsos de luz emitidos por el sensor y bloquea su transmisión directa.
+3. Mediante mecanismos electrónicos, ópticos y mecánicos, genera nuevas señales luminosas que reproducen el comportamiento óptico que tendría la sangre arterial durante el ciclo cardíaco.
+4. El fotodetector del sensor recibe estas señales y el monitor las procesa como si provinieran del dedo de un paciente real.
+5. Finalmente, el monitor calcula y muestra los valores correspondientes de SpO₂ y frecuencia del pulso.
+De esta manera, el OxSim permite reproducir diferentes condiciones de saturación, frecuencia cardíaca y perfusión, sin necesidad de utilizar un paciente real.
+
+
+
+**• Pregunta 2: ¿Por qué la SpO2 baja puede ser un falso positivo (falsa alarma) en una situación de mala perfusión?**
+
+La SpO₂ baja puede representar una falsa lectura cuando existe una perfusión periférica deficiente, debido a que el pulsioxímetro necesita detectar las variaciones de volumen de sangre arterial para calcular correctamente la saturación de oxígeno.
+
+En condiciones normales, durante cada latido cardíaco aumenta temporalmente el volumen de sangre arterial que atraviesa el tejido. Este cambio produce una señal pulsátil (componente AC), que el pulsioxímetro utiliza para diferenciar la absorción arterial de la absorción constante de los tejidos (componente DC).
+
+Sin embargo, cuando existe mala perfusión periférica, por ejemplo, debido a hipotensión, vasoconstricción, hipotermia o bajo gasto cardíaco, disminuye la cantidad de sangre que llega a los tejidos periféricos. Como consecuencia, la amplitud de la señal pulsátil disminuye considerablemente.
+
+Esto genera varios problemas:
+1. Disminución de la señal pulsátil: la cantidad de sangre arterial que produce cambios en la absorción de luz es menor, por lo que la señal AC pierde amplitud.
+2. Reducción de la relación señal-ruido: la señal fisiológica se vuelve más difícil de distinguir de interferencias externas, como el movimiento del paciente o la luz ambiental.
+3. Errores en el cálculo de SpO₂: el algoritmo del pulsioxímetro puede interpretar incorrectamente la relación entre las señales de luz roja e infrarroja.
+4. Lecturas inestables: el monitor puede mostrar valores fluctuantes, lecturas artificialmente bajas o incluso perder temporalmente la señal.
+5. Activación de alarmas: si el equipo interpreta una lectura incorrecta como una disminución real de la saturación, puede activar una alarma de hipoxemia.
+Por lo tanto, una lectura baja de SpO₂ durante una situación de mala perfusión no significa necesariamente que el paciente tenga una disminución real de oxígeno en la sangre. Puede tratarse de una limitación técnica ocasionada por la debilidad de la señal óptica.
+
+Relación con el Pronk OxSim OX-1
+
+Esta situación se puede comprobar utilizando el modo Low Perfusion del simulador, que reproduce las siguientes condiciones:
+- SpO₂: 99 %.
+- Frecuencia del pulso: 80 bpm.
+- Índice de perfusión (PI): aproximadamente 0,2.
+Este modo permite evaluar si el pulsioxímetro es capaz de detectar correctamente una señal óptica débil. El fabricante advierte que algunos monitores y sensores pueden presentar dificultades para obtener una lectura estable en estas condiciones [1].
+
+Fundamento: la reducción de la amplitud de la señal y de la relación señal-ruido está descrita en la literatura sobre las limitaciones de la pulsioximetría.
+
+Finalmente podría considerarse  que la mala perfusión puede generar falsas alarmas de desaturación porque dificulta la detección de la señal arterial pulsátil. Por esta razón, no se debe interpretar una SpO₂ baja de manera aislada; es necesario verificar la onda pletismográfica, el índice de perfusión, la ubicación del sensor y las condiciones clínicas del paciente. Si persisten las dudas, se puede confirmar la oxigenación mediante una gasometría arterial.
+
+
 
 
 # Referencias
