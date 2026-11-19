@@ -198,24 +198,46 @@ d. Fuelle
 
 El fuelle es una bolsa flexible y plegable que permite desplazar el gas hacia el paciente durante la ventilación mecánica. Se comprime durante la inspiración para impulsar el gas hacia los pulmones y vuelve a llenarse durante la espiración. Está ubicado dentro del cilindro transparente grande del lateral izquierdo de la máquina, encima del conjunto respiratorio [11]
 
+
+
 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
 
+El mensaje «batería en uso» indica que la máquina ha dejado de recibir alimentación de corriente alterna (CA) y está funcionando con su batería interna. Se debe revisar la conexión del cable y restablecer cuanto antes la alimentación eléctrica, sin apagar el equipo ni interrumpir la ventilación del paciente. Mientras se soluciona, se debe vigilar al paciente, el funcionamiento del ventilador y la carga disponible. Una vez recuperado el suministro, debe comprobarse que el indicador de CA se encienda y que desaparezca el mensaje. La batería permite continuar temporalmente el funcionamiento, pero su capacidad es limitada [11].
    
-3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?7
+3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
+
+El manual de la WATO EX-20 no establece un intervalo fijo en horas o días: el absorbente de CO₂ debe reemplazarse según su estado y capacidad de absorción. Debe revisarse antes de cada paciente y sustituirse si presenta un cambio de color evidente o si la monitorización de CO₂ indica que ya no elimina adecuadamente este gas. El color es únicamente un indicador aproximado, ya que puede recuperar su apariencia original después de permanecer en reposo sin recuperar su capacidad de absorción [11]. 
+
+En los recipientes reutilizables se cambia el material absorbente y se limpia el recipiente; si se utiliza un cartucho desechable, se sustituye la unidad completa y no debe rellenarse [11].
+
 
   
 4. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta
 presión?
 
 
+La verificación se realiza mediante una prueba de caída de presión, antes de conectar al paciente. Para el cilindro de oxígeno, el procedimiento es [11]:
+   1. Colocar el interruptor del sistema en apagado y desconectar el suministro de O₂ por tubería.
+   2. Cerrar el control de flujo de O₂.
+   3. Abrir lentamente la válvula del cilindro y registrar la presión indicada en el manómetro.
+   4. Cerrar la válvula del cilindro.
+   5. Esperar un minuto, registrar nuevamente la presión y compararla con la lectura inicial.
+   6. Si la disminución supera 5000 kPa (725 psi), el manual considera que existe una fuga. Debe sustituirse la junta de conexión y repetirse la prueba. Si persiste, no debe utilizarse ese sistema de suministro por cilindro [11]. PDFCOFFEE.COM
+Para el cilindro de N₂O, se sigue el mismo principio, pero el límite es una disminución superior a 700 kPa (100 psi) en un minuto [11].
+
+
 5. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema
 de control de flujo? ¿De qué forma?
 
+Sí, contar con el sensor de O₂ modifica la forma de verificar el sistema de control de flujo. Sin el sensor, la prueba se basa en observar los flujómetros y comprobar que los caudales de O₂ y N₂O cumplen las proporciones establecidas en las tablas del manual. Por ejemplo, para un flujo de N₂O de 3 L/min, el flujo de O₂ debe ser como mínimo de 1 L/min [11].
 
+Con el sensor, además de observar los flujos, se mide directamente la concentración de oxígeno. Durante la comprobación del sistema de proporción O₂–N₂O, el manual exige que la concentración medida se mantenga igual o superior al 25 % en todo el rango evaluado. Para que esta verificación sea válida, el sensor debe estar correctamente calibrado. Por tanto, su presencia permite comprobar la concentración real de O₂, además de los caudales indicados [11].
 
 6. ¿Para qué se requiere el sistema de presión negativa?
 
+El sistema de presión negativa se requiere para aspirar secreciones y líquidos acumulados en la boca y la garganta del paciente, ayudando a mantener despejada la vía aérea durante la anestesia. Los líquidos extraídos se almacenan temporalmente en un frasco recolector.
 
+En la WATO EX-20, este sistema puede generar succión mediante un dispositivo Venturi accionado por aire u oxígeno. Incluye un regulador para ajustar la presión de aspiración, un filtro y una protección contra el sobrellenado que evita que los líquidos entren en los componentes del equipo [12].
 
 # Análisis de los resultados
 
@@ -317,3 +339,5 @@ Finalmente podría considerarse  que la mala perfusión puede generar falsas ala
 [11] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20: Manual del usuario. [En línea]. Disponible en: Manual del usuario WATO EX-20. Consultado: 19 de noviembre de 2026.
 
 [11] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
+
+[12] Mindray, WATO EX-20/30/35 Anesthesia Machine: Service Manual, sección 2.1.6.6 «Negative Pressure Suction System», p. 2-26. Disponible en línea.
