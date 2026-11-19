@@ -171,6 +171,9 @@ a. Vaporizador
 
 <img width="1280" height="960" alt="vaporizador" src="https://github.com/user-attachments/assets/7f9cf520-d2d3-4311-8245-cfc25ed5f59d" />
 
+Figura 1. Soporte para el vaporizador de la máquina de anestesia WATO EX-20, sin vaporizador instalado durante la práctica.
+
+
 
 El vaporizador es el componente encargado de transformar el anestésico líquido en vapor e incorporarlo a la mezcla de gases que recibe el paciente. Permite ajustar la concentración del agente anestésico administrado.
 
@@ -179,14 +182,14 @@ En la máquina WATO EX-20, se instala en el soporte ubicado en la parte frontal,
 b. Válvula APL
 
 <img width="1280" height="960" alt="vaalculaapl" src="https://github.com/user-attachments/assets/b027e81d-74eb-419e-90ad-a3077ed987dd" />
-
+Figura 2. Ubicación de la válvula APL en el sistema respiratorio de la máquina WATO EX-20.
 
 La válvula APL, o válvula limitadora de presión ajustable, permite regular el límite de presión del circuito respiratorio durante la ventilación manual. Libera el exceso de gas cuando se supera la presión ajustada, ayudando a evitar presiones excesivas en las vías respiratorias. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, encima del recipiente absorbente de CO₂, y se identifica por su perilla gris con bordes estriados, junto al manómetro [11].
 
 c. Recipiente absorbente de CO2
 
 <img width="960" height="1280" alt="gas" src="https://github.com/user-attachments/assets/7b5fdb61-abb0-4166-be1b-ad9490daff0d" />
-
+Figura 3. Recipiente absorbente de CO₂ de la máquina de anestesia WATO EX-20.
 
 El recipiente absorbente de CO₂ contiene un material absorbente, generalmente cal sodada, que elimina el dióxido de carbono de los gases exhalados por el paciente. Esto permite reutilizar parte del gas dentro del circuito respiratorio y evita la reinhalación de CO₂. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, debajo de la válvula APL y del manómetro. En las fotografías corresponde al recipiente cilíndrico transparente con material granulado en su interior [11].
 
@@ -194,7 +197,7 @@ El recipiente absorbente de CO₂ contiene un material absorbente, generalmente 
 d. Fuelle
 
 <img width="960" height="1280" alt="fuelle" src="https://github.com/user-attachments/assets/8aff6624-3ba5-4ff8-9f39-377ef689fe06" />
-
+Figura 4. Fuelle y alojamiento transparente de la máquina de anestesia WATO EX-20.
 
 El fuelle es una bolsa flexible y plegable que permite desplazar el gas hacia el paciente durante la ventilación mecánica. Se comprime durante la inspiración para impulsar el gas hacia los pulmones y vuelve a llenarse durante la espiración. Está ubicado dentro del cilindro transparente grande del lateral izquierdo de la máquina, encima del conjunto respiratorio [11]
 
