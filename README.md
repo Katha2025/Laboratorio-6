@@ -20,6 +20,8 @@ Por otra parte, los agentes anestésicos volátiles, como el sevoflurano, el iso
 
 
 **1. Sistema de respiración y ventilación mecánica**
+
+
 El sistema de respiración constituye una de las partes fundamentales de una máquina de anestesia, debido a que permite establecer la comunicación entre el equipo y las vías respiratorias del paciente. Su función principal es suministrar los gases frescos, permitir el intercambio gaseoso y facilitar la eliminación del dióxido de carbono producido durante la respiración [5].
 
 Uno de los sistemas más utilizados en las máquinas de anestesia modernas es el sistema circular o circle system. Este funciona mediante un circuito cerrado o semicerrado en el que los gases exhalados pueden regresar al circuito después de pasar por un recipiente absorbente de CO₂. De esta manera, se reduce la pérdida de gases anestésicos y se permite su reutilización parcial [4], [5].
@@ -40,6 +42,8 @@ La correcta instalación y el funcionamiento de los vaporizadores son fundamenta
 
 
 **3. Sistemas de monitorización, alarmas y mantenimiento**
+
+
 Las máquinas de anestesia actuales integran sistemas electrónicos de monitorización que permiten supervisar continuamente las condiciones respiratorias del paciente y el funcionamiento del equipo. Entre las variables más importantes se encuentran la concentración de oxígeno inspirado (FiO₂), la presión de las vías respiratorias, el volumen corriente, el volumen minuto y la concentración de dióxido de carbono al final de la espiración (EtCO₂) [3], [6].
 
 Los sistemas de alarma cumplen una función esencial, ya que advierten al personal médico cuando alguna variable supera los límites establecidos o cuando se presenta una condición que puede comprometer la seguridad del paciente. Entre las situaciones que pueden generar alarmas se encuentran las fugas en el circuito respiratorio, la desconexión del paciente, las presiones anormales, la baja concentración de oxígeno y las alteraciones en la ventilación [3], [6].
