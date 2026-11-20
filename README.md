@@ -288,6 +288,7 @@ Según el manual, el ventilador es el subsistema con más fallas asociadas (27),
 
 # Conclusión
 
+Para concluir, se puede decir que una máquina de anestesia reúne subsistemas neumáticos, electrónicos y de monitorización que deben funcionar de forma coordinada para que el paciente reciba una mezcla de gases segura. Esta práctica buscó reconocer sus partes en la WATO EX-20 y entender qué puede fallar en ellas y por qué. El conteo hecho con el manual de servicio (157 fallas) muestra que el ventilador concentra la mayor cantidad (27), seguido por la entrega de gas anestésico (23), el circuito del paciente (22) y los sensores (21). Sin embargo, las causas se repiten entre subsistemas y son pocas. Las más frecuentes son las fugas por sellos desgastados o mal montados, la falta de calibración de sensores y los errores de instalación o uso, como un vaporizador ausente o un canister de CO₂ mal colocado. Las fallas electrónicas del ventilador y del módulo de CO₂, en cambio, suelen resolverse reemplazando placas o módulos. Este panorama permite orientar el mantenimiento preventivo y las verificaciones antes de cada paciente hacia el cambio periódico de sellos, la prueba de fugas y la calibración de sensores, que son acciones de bajo costo frente a una falla durante la cirugía. 
 
 # Preguntas a Discusión
 
