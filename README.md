@@ -253,7 +253,14 @@ Durante la práctica se observó que la máquina de anestesia WATO EX-20 integra
 | Subsistema                                       | Falla posible                                                       | Causas probables         |  
 |--------------------------------------------------|---------------------------------------------------------------------|--------------------------|
 | Suministro de gases (cilindros y tubería)	      | Fuga en el cilindro de alta presión; caída de presión de suministro | Junta de conexión deteriorada o mal asentada, válvula del cilindro mal cerrada, conexiones sueltas. Se detecta con la prueba de caída de presión (más de 5000 kPa/min en O₂ y más de 700 kPa/min en N₂O indica fuga) [11] |
-
+| Control de flujo y proporción O₂–N₂O    	      | Proporción incorrecta de gases; concentración de O₂ menor al 25 %   | Descalibración o desgaste de los flujómetros, fallas en el sistema de proporción, sensor de O₂ sin calibrar o agotado [11] |
+| Vaporizador                             	      | Concentración de anestésico errónea o ausencia de administración    | Vaporizador mal instalado o ausente (como en el equipo observado), nivel de agente insuficiente, falta de calibración [3] |
+| Sistema de respiración                           | Fugas en el circuito; reinhalación de CO₂                           | Conexiones flojas, válvulas unidireccionales dañadas, absorbente de CO₂ agotado, recipiente mal sellado [5], [11] |
+| Válvula APL                             	      | Presión excesiva o fuga de gas durante la ventilación manual        | Perilla mal ajustada, desgaste del mecanismo, ensamble incorrecto [11] |
+| Ventilador y fuelle	                  	      | Volumen corriente o presión inadecuados; fuelle que no se llena     | Fugas en el circuito o en el fuelle, fuelle mal montado o deteriorado, parámetros mal configurados [3] |
+| Alimentación eléctrica                  	      | Mensaje "batería en uso"                                            | Pérdida de CA por cable desconectado, falla en la toma o en el cable de alimentación. La batería sostiene el equipo solo temporalmente [11] |
+| Monitorización y alarmas                	      | Lecturas erróneas o alarmas falsas                                  | Sensores sin calibrar, desconexión de sensores, interferencias en la señal (en SpO₂, mala perfusión o movimiento) [6] |
+| Presión negativa (succión)               	      | Succión insuficiente o ingreso de líquidos al equipo                | Frasco sobrellenado, filtro obstruido, regulador mal ajustado, falta de suministro de aire u oxígeno para el Venturi [12] |
 
 **Tomado de**: *Manual de operación y ficha técnica del Pronk OxSim OX-1.*
 
