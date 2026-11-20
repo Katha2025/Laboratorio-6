@@ -120,8 +120,6 @@ El equipo dispone de cinco modos de simulación preestablecidos que combinan los
 
 **Tomado de**: *Elaboración propia.*
 
-Se observa que muchas fallas podrían tener un origen común: fugas, desgaste de consumibles (absorbente, juntas, filtros), falta de calibración y errores de montaje o uso. Esto coincide con lo señalado en la la guía, donde se indica que las fallas actuales suelen estar relacionadas con el usuario [3].
-
 **C. En el ámbito clínico ¿Cuáles son las tolerancias o errores máximos permitidos (EMP) para cada parámetro fisiológico mencionado en la parte (b)?**
 
 Los errores máximos permitidos (EMP) representan los límites de desviación aceptables entre el valor medido por un equipo y un valor de referencia. Estos límites permiten evaluar si un dispositivo biomédico presenta un desempeño adecuado para su utilización clínica.
