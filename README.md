@@ -1,4 +1,13 @@
 # Reconocimiento de partes y funcionamiento de una máquina de anestesia
+
+**Integrantes**
+- Luciana Carbone Calderón
+  
+-  Marya Kathalina Prieto Martinez
+
+- Paula Andrea Delgado Pecha
+
+  
 # Parte A 
 # Revisión de la literatura
 
