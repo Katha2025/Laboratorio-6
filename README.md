@@ -134,7 +134,7 @@ De acuerdo con los criterios de desempeño utilizados para pulsioxímetros, la e
 
 Como referencia clínica, la Organización Mundial de la Salud establece los siguientes requisitos de exactitud:
 - ±2 % en condiciones ideales de utilización.
-- ±3 % considerando diferentes pacientes y condiciones de perfusión y movimiento [11].
+- ±3 % considerando diferentes pacientes y condiciones de perfusión y movimiento [8].
 Adicionalmente, el fabricante del OxSim OX-1 indica que el error de saturación simulado debe ser igual o inferior a la tolerancia especificada para el sensor utilizado, que generalmente es de ±2 % para sensores reutilizables y puede ser de ±3 % o superior para algunos sensores desechables [9], [10].
 
 2. Frecuencia del pulso (PR)
@@ -183,14 +183,14 @@ b. Válvula APL
 <img width="1280" height="960" alt="vaalculaapl" src="https://github.com/user-attachments/assets/b027e81d-74eb-419e-90ad-a3077ed987dd" />
 Figura 2. Ubicación de la válvula APL en el sistema respiratorio de la máquina WATO EX-20.
 
-La válvula APL, o válvula limitadora de presión ajustable, permite regular el límite de presión del circuito respiratorio durante la ventilación manual. Libera el exceso de gas cuando se supera la presión ajustada, ayudando a evitar presiones excesivas en las vías respiratorias. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, encima del recipiente absorbente de CO₂, y se identifica por su perilla gris con bordes estriados, junto al manómetro [11].
+La válvula APL, o válvula limitadora de presión ajustable, permite regular el límite de presión del circuito respiratorio durante la ventilación manual. Libera el exceso de gas cuando se supera la presión ajustada, ayudando a evitar presiones excesivas en las vías respiratorias. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, encima del recipiente absorbente de CO₂, y se identifica por su perilla gris con bordes estriados, junto al manómetro [8].
 
 c. Recipiente absorbente de CO2
 
 <img width="960" height="1280" alt="gas" src="https://github.com/user-attachments/assets/7b5fdb61-abb0-4166-be1b-ad9490daff0d" />
 Figura 3. Recipiente absorbente de CO₂ de la máquina de anestesia WATO EX-20.
 
-El recipiente absorbente de CO₂ contiene un material absorbente, generalmente cal sodada, que elimina el dióxido de carbono de los gases exhalados por el paciente. Esto permite reutilizar parte del gas dentro del circuito respiratorio y evita la reinhalación de CO₂. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, debajo de la válvula APL y del manómetro. En las fotografías corresponde al recipiente cilíndrico transparente con material granulado en su interior [11].
+El recipiente absorbente de CO₂ contiene un material absorbente, generalmente cal sodada, que elimina el dióxido de carbono de los gases exhalados por el paciente. Esto permite reutilizar parte del gas dentro del circuito respiratorio y evita la reinhalación de CO₂. Se encuentra en el conjunto respiratorio del lateral izquierdo de la máquina, debajo de la válvula APL y del manómetro. En las fotografías corresponde al recipiente cilíndrico transparente con material granulado en su interior [8].
 
 
 d. Fuelle
@@ -198,19 +198,19 @@ d. Fuelle
 <img width="960" height="1280" alt="fuelle" src="https://github.com/user-attachments/assets/8aff6624-3ba5-4ff8-9f39-377ef689fe06" />
 Figura 4. Fuelle y alojamiento transparente de la máquina de anestesia WATO EX-20.
 
-El fuelle es una bolsa flexible y plegable que permite desplazar el gas hacia el paciente durante la ventilación mecánica. Se comprime durante la inspiración para impulsar el gas hacia los pulmones y vuelve a llenarse durante la espiración. Está ubicado dentro del cilindro transparente grande del lateral izquierdo de la máquina, encima del conjunto respiratorio [11]
+El fuelle es una bolsa flexible y plegable que permite desplazar el gas hacia el paciente durante la ventilación mecánica. Se comprime durante la inspiración para impulsar el gas hacia los pulmones y vuelve a llenarse durante la espiración. Está ubicado dentro del cilindro transparente grande del lateral izquierdo de la máquina, encima del conjunto respiratorio [8]
 
 
 
 2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
 
-El mensaje «batería en uso» indica que la máquina ha dejado de recibir alimentación de corriente alterna (CA) y está funcionando con su batería interna. Se debe revisar la conexión del cable y restablecer cuanto antes la alimentación eléctrica, sin apagar el equipo ni interrumpir la ventilación del paciente. Mientras se soluciona, se debe vigilar al paciente, el funcionamiento del ventilador y la carga disponible. Una vez recuperado el suministro, debe comprobarse que el indicador de CA se encienda y que desaparezca el mensaje. La batería permite continuar temporalmente el funcionamiento, pero su capacidad es limitada [11].
+El mensaje «batería en uso» indica que la máquina ha dejado de recibir alimentación de corriente alterna (CA) y está funcionando con su batería interna. Se debe revisar la conexión del cable y restablecer cuanto antes la alimentación eléctrica, sin apagar el equipo ni interrumpir la ventilación del paciente. Mientras se soluciona, se debe vigilar al paciente, el funcionamiento del ventilador y la carga disponible. Una vez recuperado el suministro, debe comprobarse que el indicador de CA se encienda y que desaparezca el mensaje. La batería permite continuar temporalmente el funcionamiento, pero su capacidad es limitada [8].
    
 3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
 
-El manual de la WATO EX-20 no establece un intervalo fijo en horas o días: el absorbente de CO₂ debe reemplazarse según su estado y capacidad de absorción. Debe revisarse antes de cada paciente y sustituirse si presenta un cambio de color evidente o si la monitorización de CO₂ indica que ya no elimina adecuadamente este gas. El color es únicamente un indicador aproximado, ya que puede recuperar su apariencia original después de permanecer en reposo sin recuperar su capacidad de absorción [11]. 
+El manual de la WATO EX-20 no establece un intervalo fijo en horas o días: el absorbente de CO₂ debe reemplazarse según su estado y capacidad de absorción. Debe revisarse antes de cada paciente y sustituirse si presenta un cambio de color evidente o si la monitorización de CO₂ indica que ya no elimina adecuadamente este gas. El color es únicamente un indicador aproximado, ya que puede recuperar su apariencia original después de permanecer en reposo sin recuperar su capacidad de absorción [8]. 
 
-En los recipientes reutilizables se cambia el material absorbente y se limpia el recipiente; si se utiliza un cartucho desechable, se sustituye la unidad completa y no debe rellenarse [11].
+En los recipientes reutilizables se cambia el material absorbente y se limpia el recipiente; si se utiliza un cartucho desechable, se sustituye la unidad completa y no debe rellenarse [8].
 
 
   
@@ -218,28 +218,28 @@ En los recipientes reutilizables se cambia el material absorbente y se limpia el
 presión?
 
 
-La verificación se realiza mediante una prueba de caída de presión, antes de conectar al paciente. Para el cilindro de oxígeno, el procedimiento es [11]:
+La verificación se realiza mediante una prueba de caída de presión, antes de conectar al paciente. Para el cilindro de oxígeno, el procedimiento es [8]:
    1. Colocar el interruptor del sistema en apagado y desconectar el suministro de O₂ por tubería.
    2. Cerrar el control de flujo de O₂.
    3. Abrir lentamente la válvula del cilindro y registrar la presión indicada en el manómetro.
    4. Cerrar la válvula del cilindro.
    5. Esperar un minuto, registrar nuevamente la presión y compararla con la lectura inicial.
-   6. Si la disminución supera 5000 kPa (725 psi), el manual considera que existe una fuga. Debe sustituirse la junta de conexión y repetirse la prueba. Si persiste, no debe utilizarse ese sistema de suministro por cilindro [11]. PDFCOFFEE.COM
-Para el cilindro de N₂O, se sigue el mismo principio, pero el límite es una disminución superior a 700 kPa (100 psi) en un minuto [11].
+   6. Si la disminución supera 5000 kPa (725 psi), el manual considera que existe una fuga. Debe sustituirse la junta de conexión y repetirse la prueba. Si persiste, no debe utilizarse ese sistema de suministro por cilindro [8]. PDFCOFFEE.COM
+Para el cilindro de N₂O, se sigue el mismo principio, pero el límite es una disminución superior a 700 kPa (100 psi) en un minuto [8].
 
 
 5. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema
 de control de flujo? ¿De qué forma?
 
-Sí, contar con el sensor de O₂ modifica la forma de verificar el sistema de control de flujo. Sin el sensor, la prueba se basa en observar los flujómetros y comprobar que los caudales de O₂ y N₂O cumplen las proporciones establecidas en las tablas del manual. Por ejemplo, para un flujo de N₂O de 3 L/min, el flujo de O₂ debe ser como mínimo de 1 L/min [11].
+Sí, contar con el sensor de O₂ modifica la forma de verificar el sistema de control de flujo. Sin el sensor, la prueba se basa en observar los flujómetros y comprobar que los caudales de O₂ y N₂O cumplen las proporciones establecidas en las tablas del manual. Por ejemplo, para un flujo de N₂O de 3 L/min, el flujo de O₂ debe ser como mínimo de 1 L/min [8].
 
-Con el sensor, además de observar los flujos, se mide directamente la concentración de oxígeno. Durante la comprobación del sistema de proporción O₂–N₂O, el manual exige que la concentración medida se mantenga igual o superior al 25 % en todo el rango evaluado. Para que esta verificación sea válida, el sensor debe estar correctamente calibrado. Por tanto, su presencia permite comprobar la concentración real de O₂, además de los caudales indicados [11].
+Con el sensor, además de observar los flujos, se mide directamente la concentración de oxígeno. Durante la comprobación del sistema de proporción O₂–N₂O, el manual exige que la concentración medida se mantenga igual o superior al 25 % en todo el rango evaluado. Para que esta verificación sea válida, el sensor debe estar correctamente calibrado. Por tanto, su presencia permite comprobar la concentración real de O₂, además de los caudales indicados [8].
 
 6. ¿Para qué se requiere el sistema de presión negativa?
 
 El sistema de presión negativa se requiere para aspirar secreciones y líquidos acumulados en la boca y la garganta del paciente, ayudando a mantener despejada la vía aérea durante la anestesia. Los líquidos extraídos se almacenan temporalmente en un frasco recolector.
 
-En la WATO EX-20, este sistema puede generar succión mediante un dispositivo Venturi accionado por aire u oxígeno. Incluye un regulador para ajustar la presión de aspiración, un filtro y una protección contra el sobrellenado que evita que los líquidos entren en los componentes del equipo [12].
+En la WATO EX-20, este sistema puede generar succión mediante un dispositivo Venturi accionado por aire u oxígeno. Incluye un regulador para ajustar la presión de aspiración, un filtro y una protección contra el sobrellenado que evita que los líquidos entren en los componentes del equipo [11].
 
 # Análisis de los resultados
 
@@ -251,17 +251,19 @@ Durante la práctica se observó que la máquina de anestesia WATO EX-20 integra
 
 | Subsistema                                       | Falla posible                                                       | Causas probables         |  
 |--------------------------------------------------|---------------------------------------------------------------------|--------------------------|
-| Suministro de gases (cilindros y tubería)	      | Fuga en el cilindro de alta presión; caída de presión de suministro | Junta de conexión deteriorada o mal asentada, válvula del cilindro mal cerrada, conexiones sueltas. Se detecta con la prueba de caída de presión (más de 5000 kPa/min en O₂ y más de 700 kPa/min en N₂O indica fuga) [11] |
-| Control de flujo y proporción O₂–N₂O    	      | Proporción incorrecta de gases; concentración de O₂ menor al 25 %   | Descalibración o desgaste de los flujómetros, fallas en el sistema de proporción, sensor de O₂ sin calibrar o agotado [11] |
-| Vaporizador                             	      | Concentración de anestésico errónea o ausencia de administración    | Vaporizador mal instalado o ausente (como en el equipo observado), nivel de agente insuficiente, falta de calibración [3] |
-| Sistema de respiración                           | Fugas en el circuito; reinhalación de CO₂                           | Conexiones flojas, válvulas unidireccionales dañadas, absorbente de CO₂ agotado, recipiente mal sellado [5], [11] |
-| Válvula APL                             	      | Presión excesiva o fuga de gas durante la ventilación manual        | Perilla mal ajustada, desgaste del mecanismo, ensamble incorrecto [11] |
-| Ventilador y fuelle	                  	      | Volumen corriente o presión inadecuados; fuelle que no se llena     | Fugas en el circuito o en el fuelle, fuelle mal montado o deteriorado, parámetros mal configurados [3] |
-| Alimentación eléctrica                  	      | Mensaje "batería en uso"                                            | Pérdida de CA por cable desconectado, falla en la toma o en el cable de alimentación. La batería sostiene el equipo solo temporalmente [11] |
-| Monitorización y alarmas                	      | Lecturas erróneas o alarmas falsas                                  | Sensores sin calibrar, desconexión de sensores, interferencias en la señal (en SpO₂, mala perfusión o movimiento) [6] |
-| Presión negativa (succión)               	      | Succión insuficiente o ingreso de líquidos al equipo                | Frasco sobrellenado, filtro obstruido, regulador mal ajustado, falta de suministro de aire u oxígeno para el Venturi [12] |
+| Suministro de gases y gas motriz                 | Fugas; manómetro de tubería con lectura errónea o fluctuante; alarmas "O₂ Supply Failure" o "Drive Gas Pressure Low" que no se activan o se activan sin motivo | Tubo o sello dañado, conector rápido con fuga, filtro o tubo PU obstruido, interruptor de presión descalibrado [8] |
+| Entrega de gas anestésico                 	      | Fugas; flujómetro impreciso o trabado; corte O₂–N₂O inefectivo; el gas no se corta al apagar la máquina   | Vaporizador mal instalado, sellos del múltiple del vaporizador desgastados o sucios, flujómetro dañado, válvula de corte O₂–N₂O dañada, sello del interruptor del sistema [8] |
+| Circuito del paciente                    	      | Fugas en el circuito; manómetro de vía aérea dañado                 | VCanister de CO₂ mal instalado, sellos desgastados (canister, brazo de la bolsa, copa de agua, adaptador, fuelle), fuelle o tapa de válvulas mal montados, tubo respiratorio dañado [8] |
+| Sensores (O₂, flujo, presión)                    | Concentración de O₂ errónea; onda de flujo anormal; volumen corriente impreciso | Agua acumulada en el sensor, sensor sin calibrar, membrana del sensor de flujo sucia o deformada, línea de muestreo con fuga, sensor dañado [8] |
+| Ventilador (válvulas y placas)                   | Alarmas de válvula PEEP/inspiratoria, fallas de autotest o inicialización, ventilación que se detiene | Falla de la placa del monitor, válvula PEEP o inspiratoria dañada, comunicación entre placas, calibración fuera de rango [8] |
+| Módulo de CO₂      	                  	      | Alarmas de comunicación, temperatura, presión, línea obstruida      | Falla del módulo (en la mayoría se indica reemplazarlo), trampa de agua mal conectada [8] |
+| Alimentación eléctrica                  	      | Mensaje "batería en uso"                                            | Pérdida de CA por cable desconectado, falla en la toma o en el cable de alimentación. La batería sostiene el equipo solo temporalmente [8] |
+| Calentamiento                           	      | Falla del calentador                                                | Resistencia quemada, termistor dañado, placa de control o cableado [8] |
+| Interfaz y control                       	      | Teclas o perilla sin respuesta, alarma sin sonido, falla de red, reloj | Teclado o placa de botones dañados, cables sueltos, altavoz dañado, conflicto de IP [8] |
 
-**Tomado de**: *Manual de operación y ficha técnica del Pronk OxSim OX-1.*
+**Tomado de**: *Elaboración propia.*
+
+La mayoría de causas son fugas por sellos desgastados o mal montados (el manual exige reemplazar muchos sellos una vez al año), falta de calibración y errores de instalación.
 
 **• Análisis 2: Ordene cada subsistema de la máquina en función del número de fallas asociadas a este (de mayor a menor,) de acuerdo con la información suministrada por el manual de operación.**
 
@@ -360,8 +362,6 @@ Finalmente podría considerarse  que la mala perfusión puede generar falsas ala
 
 [10] World Health Organization (WHO). (2019). Technical specifications for oxygen concentrators. Requisitos técnicos para pulsioxímetros. Documento técnico. http://pubmed.ncbi.nlm.nih.gov/9928700/
 
-[11] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20: Manual del usuario. [En línea]. Disponible en: Manual del usuario WATO EX-20. Consultado: 19 de noviembre de 2026.
+[11] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
 
-[12] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
-
-[13] Mindray, WATO EX-20/30/35 Anesthesia Machine: Service Manual, sección 2.1.6.6 «Negative Pressure Suction System», p. 2-26. Disponible en línea.
+[12] Mindray, WATO EX-20/30/35 Anesthesia Machine: Service Manual, sección 2.1.6.6 «Negative Pressure Suction System», p. 2-26. Disponible en línea.
