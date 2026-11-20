@@ -118,10 +118,9 @@ El equipo dispone de cinco modos de simulación preestablecidos que combinan los
 | Low Perfusion  | 99 % | 80 bpm               | 0,2 |
 
 
-**Tomado de**: *Manual de operación y ficha técnica del Pronk OxSim OX-1.*
+**Tomado de**: *Elaboración propia.*
 
-
-
+Se observa que muchas fallas podrían tener un origen común: fugas, desgaste de consumibles (absorbente, juntas, filtros), falta de calibración y errores de montaje o uso. Esto coincide con lo señalado en la la guía, donde se indica que las fallas actuales suelen estar relacionadas con el usuario [3].
 
 **C. En el ámbito clínico ¿Cuáles son las tolerancias o errores máximos permitidos (EMP) para cada parámetro fisiológico mencionado en la parte (b)?**
 
