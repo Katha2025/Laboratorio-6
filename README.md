@@ -340,25 +340,25 @@ Finalmente podría considerarse  que la mala perfusión puede generar falsas ala
 # Referencias
 
 
-1] National Institute of General Medical Sciences (NIGMS). Anesthesia. National Institutes of Health. Consultar fuente.
+1] National Institute of General Medical Sciences (NIGMS). Anesthesia. National Institutes of Health.(https://www.nigms.nih.gov/education/Pages/Anesthesia?).
 
-[2] MedlinePlus. Anesthesia. U.S. National Library of Medicine. Consultar fuente.
+[2] MedlinePlus. Anesthesia. U.S. National Library of Medicine. (https://medlineplus.gov/anesthesia.html?).
 
-[3] N. E. Hill y D. B. Horn, “Anesthesia Machine”, StatPearls, National Center for Biotechnology Information, actualización de noviembre de 2022. Consultar fuente.
+[3] N. E. Hill y D. B. Horn, “Anesthesia Machine”, StatPearls, National Center for Biotechnology Information, actualización de noviembre de 2022.(https://www.ncbi.nlm.nih.gov/books/NBK572060/).
 
-[4] Occupational Safety and Health Administration (OSHA). Anesthetic Gases: Guidelines for Workplace Exposures. Consultar fuente.
+[4] Occupational Safety and Health Administration (OSHA). Anesthetic Gases: Guidelines for Workplace Exposures.https://www.osha.gov/waste-anesthetic-gases/workplace-exposures-guidelines.
 
-[5] P. Y. Yao, J. M. Hendrix y D. L. Stahl, “Anesthesia Breathing Systems”, StatPearls, National Center for Biotechnology Information, 2025. Consultar fuente.
+[5] P. Y. Yao, J. M. Hendrix y D. L. Stahl, “Anesthesia Breathing Systems”, StatPearls, National Center for Biotechnology Information, 2025.https://www.ncbi.nlm.nih.gov/books/NBK574503/.
 
-[6] Mindray. WATO EX-20: Máquina de anestesia. Información técnica del fabricante. Consultar fuente.
+[6] Mindray. WATO EX-20: Máquina de anestesia. Información técnica del fabricante. (https://www.mindray.com/es/products/anesthesia/wato-ex-20).
 
 [7] Shenzhen Mindray Bio-Medical Electronics Co., Ltd. (2023). uMEC 60/uMEC 70/uMEC 80/uMEC 100/uMEC 120/uMEC 150: Manual del operador. Revisión 2.0, julio de 2023. Manual del operador.
 
-[8] Pronk Technologies. (2010). OxSim OX-1: Operator's Manual. Revision J. Manual de operación.
+[8] Pronk Technologies. (2010). OxSim OX-1: Operator's Manual. Revision J. Manual de operación. https://es.scribd.com/document/922769510/4-Manual-de-usuario
 
-[9] Pronk Technologies. OX-1 OxSim Optical SpO₂ Pulse Oximeter Tester: Technical Specifications. Ficha técnica del fabricante.
+[9] Pronk Technologies. OX-1 OxSim Optical SpO₂ Pulse Oximeter Tester: Technical Specifications. Ficha técnica del fabricante. https://pmc.ncbi.nlm.nih.gov/articles/PMC137227/
 
-[10] World Health Organization (WHO). (2019). Technical specifications for oxygen concentrators. Requisitos técnicos para pulsioxímetros. Documento técnico.
+[10] World Health Organization (WHO). (2019). Technical specifications for oxygen concentrators. Requisitos técnicos para pulsioxímetros. Documento técnico. http://pubmed.ncbi.nlm.nih.gov/9928700/
 
 [11] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20: Manual del usuario. [En línea]. Disponible en: Manual del usuario WATO EX-20. Consultado: 19 de noviembre de 2026.
 
