@@ -244,7 +244,22 @@ En la WATO EX-20, este sistema puede generar succión mediante un dispositivo Ve
 
 # Análisis de los resultados
 
-lol
+**• Análisis 1: Revise sobre las fallas que pueden presentarse en el funcionamiento de alguno de los subsistemas que componen la máquina de anestesia, así como lo que las produce.**
+
+Durante la práctica se observó que la máquina de anestesia WATO EX-20 integra varios subsistemas (suministro de gases, vaporización, respiración, ventilación, alimentación eléctrica y succión) que deben trabajar de forma coordinada. Una falla en cualquiera de ellos puede comprometer la oxigenación, la ventilación o la profundidad anestésica del paciente. A partir de la revisión realizada, se identifican las siguientes fallas y sus causas probables:
+
+**Tabla 3.** *Fallas posibles por subsistema y sus causas.*
+
+| Subsistema                                       | Falla posible                                                       | Causas probables         |  
+|--------------------------------------------------|---------------------------------------------------------------------|--------------------------|
+| Suministro de gases (cilindros y tubería)	      | Fuga en el cilindro de alta presión; caída de presión de suministro | Junta de conexión deteriorada o mal asentada, válvula del cilindro mal cerrada, conexiones sueltas. Se detecta con la prueba de caída de presión (más de 5000 kPa/min en O₂ y más de 700 kPa/min en N₂O indica fuga) [11] |
+
+
+**Tomado de**: *Manual de operación y ficha técnica del Pronk OxSim OX-1.*
+
+**• Análisis 2: Ordene cada subsistema de la máquina en función del número de fallas asociadas a este (de mayor a menor,) de acuerdo con la información suministrada por el manual de operación.**
+
+
 
 # Conclusión
 
@@ -341,6 +356,6 @@ Finalmente podría considerarse  que la mala perfusión puede generar falsas ala
 
 [11] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20: Manual del usuario. [En línea]. Disponible en: Manual del usuario WATO EX-20. Consultado: 19 de noviembre de 2026.
 
-[11] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
+[12] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
 
 [12] Mindray, WATO EX-20/30/35 Anesthesia Machine: Service Manual, sección 2.1.6.6 «Negative Pressure Suction System», p. 2-26. Disponible en línea.
