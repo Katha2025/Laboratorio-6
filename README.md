@@ -364,4 +364,4 @@ Finalmente podría considerarse  que la mala perfusión puede generar falsas ala
 
 [12] International Organization for Standardization (ISO). (2026). ISO 80601-2-61: Medical electrical equipment — Particular requirements for basic safety and essential performance of pulse oximeter equipment. Consultar norma.
 
-[12] Mindray, WATO EX-20/30/35 Anesthesia Machine: Service Manual, sección 2.1.6.6 «Negative Pressure Suction System», p. 2-26. Disponible en línea.
+[13] Mindray, WATO EX-20/30/35 Anesthesia Machine: Service Manual, sección 2.1.6.6 «Negative Pressure Suction System», p. 2-26. Disponible en línea.
