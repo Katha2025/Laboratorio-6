@@ -253,7 +253,7 @@ Durante la práctica se observó que la máquina de anestesia WATO EX-20 integra
 |--------------------------------------------------|---------------------------------------------------------------------|--------------------------|
 | Suministro de gases y gas motriz                 | Fugas; manómetro de tubería con lectura errónea o fluctuante; alarmas "O₂ Supply Failure" o "Drive Gas Pressure Low" que no se activan o se activan sin motivo | Tubo o sello dañado, conector rápido con fuga, filtro o tubo PU obstruido, interruptor de presión descalibrado [8] |
 | Entrega de gas anestésico                 	      | Fugas; flujómetro impreciso o trabado; corte O₂–N₂O inefectivo; el gas no se corta al apagar la máquina   | Vaporizador mal instalado, sellos del múltiple del vaporizador desgastados o sucios, flujómetro dañado, válvula de corte O₂–N₂O dañada, sello del interruptor del sistema [8] |
-| Circuito del paciente                    	      | Fugas en el circuito; manómetro de vía aérea dañado                 | VCanister de CO₂ mal instalado, sellos desgastados (canister, brazo de la bolsa, copa de agua, adaptador, fuelle), fuelle o tapa de válvulas mal montados, tubo respiratorio dañado [8] |
+| Circuito del paciente                    	      | Fugas en el circuito; manómetro de vía aérea dañado                 | Canister de CO₂ mal instalado, sellos desgastados (canister, brazo de la bolsa, copa de agua, adaptador, fuelle), fuelle o tapa de válvulas mal montados, tubo respiratorio dañado [8] |
 | Sensores (O₂, flujo, presión)                    | Concentración de O₂ errónea; onda de flujo anormal; volumen corriente impreciso | Agua acumulada en el sensor, sensor sin calibrar, membrana del sensor de flujo sucia o deformada, línea de muestreo con fuga, sensor dañado [8] |
 | Ventilador (válvulas y placas)                   | Alarmas de válvula PEEP/inspiratoria, fallas de autotest o inicialización, ventilación que se detiene | Falla de la placa del monitor, válvula PEEP o inspiratoria dañada, comunicación entre placas, calibración fuera de rango [8] |
 | Módulo de CO₂      	                  	      | Alarmas de comunicación, temperatura, presión, línea obstruida      | Falla del módulo (en la mayoría se indica reemplazarlo), trampa de agua mal conectada [8] |
@@ -267,7 +267,26 @@ La mayoría de causas son fugas por sellos desgastados o mal montados (el manual
 
 **• Análisis 2: Ordene cada subsistema de la máquina en función del número de fallas asociadas a este (de mayor a menor,) de acuerdo con la información suministrada por el manual de operación.**
 
+Para este análisis se revisó la sección de solución de problemas/alarmas del manual de la WATO EX-20 [8] y se contó el número de fallas o mensajes de alarma asociados a cada subsistema. Se contó cada mensaje de alarma técnica de la sección 5.2 (64 en total) y cada causa posible listada en las tablas de las secciones 5.3 y 5.5 (93 en total). Se excluyeron las causas exclusivas de EX-25/30/35 y la sección 5.4.3 que es acerca de procedimiento diagnóstico.
 
+**Tabla 4.** *Número de fallas por subsistema según el manual de servicio.*
+
+| Posición | Subsistema                             | Alarmas (5.2) | Causas en tablas (5.3 y 5.5) | Total |
+|----------|----------------------------------------|---------------|------------------------------|-------|
+| 1        | Ventilador (válvulas, placas, control) | 19            | 8                            | 27    |
+| 2        | Entrega de gas anestésico              | 4             | 19                           | 23    |
+| 3        | Circuito del paciente                  | 3             | 19                           | 22    |
+| 4        | Sensores (O₂, flujo, presión)          | 7             | 14                           | 21    |
+| 5        | Módulo de CO₂                          | 18            | 0                            | 18    |
+| 6        | Alimentación eléctrica                 | 3             | 12                           | 15    |
+| 7        | Interfaz y control                     | 5             | 8                            | 13    |
+| 8        | Suministro de gases y gas motriz       | 2             | 8                            | 10    |
+| 9        | Calentamiento                          | 3             | 5                            | 8     |
+|          | Total                                  | 64            | 93                           | 157   |
+
+**Tomado de**: *Elaboración propia.*
+
+Según el manual, el ventilador es el subsistema con más fallas asociadas (27), seguido por la entrega de gas anestésico (23), el circuito del paciente (22) y los sensores (21). Los módulos de CO₂, alimentación eléctrica, interfaz, suministro de gases y calentamiento presentan menos. En la entrega de gas y el circuito del paciente predominan las fugas por sellos y errores de montaje, mientras que en el ventilador y el módulo de CO₂ predominan las alarmas por fallas electrónicas, que suelen resolverse reemplazando placas o módulos. Esto indica que el mantenimiento preventivo debe priorizar la revisión y el cambio periódico de sellos, la calibración de sensores y las pruebas de fuga.
 
 # Conclusión
 
