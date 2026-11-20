@@ -222,7 +222,7 @@ La verificación se realiza mediante una prueba de caída de presión, antes de 
    3. Abrir lentamente la válvula del cilindro y registrar la presión indicada en el manómetro.
    4. Cerrar la válvula del cilindro.
    5. Esperar un minuto, registrar nuevamente la presión y compararla con la lectura inicial.
-   6. Si la disminución supera 5000 kPa (725 psi), el manual considera que existe una fuga. Debe sustituirse la junta de conexión y repetirse la prueba. Si persiste, no debe utilizarse ese sistema de suministro por cilindro [8]. PDFCOFFEE.COM
+   6. Si la disminución supera 5000 kPa (725 psi), el manual considera que existe una fuga. Debe sustituirse la junta de conexión y repetirse la prueba. Si persiste, no debe utilizarse ese sistema de suministro por cilindro [8]. 
 Para el cilindro de N₂O, se sigue el mismo principio, pero el límite es una disminución superior a 700 kPa (100 psi) en un minuto [8].
 
 
